@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mat2m10/mat2m10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on translating my previous machine learning projects from MatLab to Jupyter.
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: matthieu.dehemptinne@gmail.com
 - 😄 Pronouns: Math
 - ⚡ Fun fact: I am currently !sober
--->
