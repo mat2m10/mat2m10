@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mat2m10/" target="blank"><img align="center" src="https://www.plainwater.nl/wp-content/uploads/2020/09/LinkedIn-icon.png" alt="mat2m10" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mat2m10/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1617442026~hmac=03d324c56edf4f6a5159eb5d0189db5d" alt="mat2m10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
