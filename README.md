@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Matthieu </h1>
 <h3 align="center"> Industrial engineer and PhD student in Machine Learning applied in Genetics </h3>
 
-- 🔭 I’m currently working on *polishing my Rails app prototypes:* *<a href="https://www.nerdsquad.me" target="_blank"> nerdSquad</a> / <a href="https://guilderapp.herokuapp.com" target="_blank">Guilder</a>*
+- 🔭 I’m currently working on polishing my machine learning skills</a> / <a href="https://guilderapp.herokuapp.com" target="_blank">Guilder</a>*
 - 📫 How to reach me *m.c.de.hemptinne@vu.nl*
 
 <h3 align="left">Connect with me:</h3>
