@@ -65,7 +65,6 @@
   <h1 style="text-align: center;">🧰 Current Toolbox</h1>
 
   <div class="toolbox">
-
     <!-- Hardware & Version Control -->
     <div class="row row-top">
       <div class="block">
@@ -84,7 +83,6 @@
         <img src="assets/icons/windows.png" alt="Windows">
       </div>
     </div>
-
     <!-- Web + Cloud -->
     <div class="row row-web-backend">
       <div class="block">
@@ -103,7 +101,6 @@
         <img src="assets/icons/heroku.png" alt="Heroku">
       </div>
     </div>
-
     <!-- Programming + Stats -->
     <div class="row row-code">
       <div class="block">
@@ -117,7 +114,6 @@
         <img src="assets/icons/stats.png" alt="Stats">
       </div>
     </div>
-
     <!-- ML + Containers -->
     <div class="row row-ml">
       <div class="block">
@@ -130,7 +126,6 @@
         <img src="assets/icons/k8.png" alt="Kubernetes">
       </div>
     </div>
-
     <!-- Vision, Modeling, Robotics -->
     <div class="row row-bottom">
       <div class="block">
