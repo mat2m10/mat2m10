@@ -10,15 +10,18 @@
 
 <h3 align="center">🧰 Toolbox</h3>
 
-<p align="center">
-  <img src="assets/icons/programming.png" alt="Programming Icon" width="20"/><br>
-  <img src="assets/icons/python.png" alt="Python" width="24"/>
-  <img src="assets/icons/cpp.png" alt="C++" width="24"/>
-  <img src="assets/icons/bash.png" alt="Bash" width="24"/>
-  <img src="assets/icons/R_studio.png" alt="R" width="24"/>
-  <img src="assets/icons/matlab.png" alt="MATLAB" width="24"/>
-  <img src="assets/icons/ruby.png" alt="Ruby" width="24"/>
-</p>
+<table align="center">
+  <tr>
+    <td style="background-color:#e0f7fa; padding:10px; border-radius:10px;">
+      <img src="assets/icons/python.png" alt="Python" width="24"/>
+      <img src="assets/icons/cpp.png" alt="C++" width="24"/>
+      <img src="assets/icons/bash.png" alt="Bash" width="24"/>
+      <img src="assets/icons/R_studio.png" alt="R" width="24"/>
+      <img src="assets/icons/matlab.png" alt="MATLAB" width="24"/>
+      <img src="assets/icons/ruby.png" alt="Ruby" width="24"/>
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
