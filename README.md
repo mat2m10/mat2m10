@@ -11,7 +11,7 @@
 <h3 align="center">🧰 Toolbox</h3>
 
 <p align="center">
-  <!-- Programming Languages -->
+  <img src="assets/icons/programming.png" alt="Programming Icon" width="20"/><br>
   <img src="assets/icons/python.png" alt="Python" width="24"/>
   <img src="assets/icons/cpp.png" alt="C++" width="24"/>
   <img src="assets/icons/bash.png" alt="Bash" width="24"/>
@@ -19,6 +19,7 @@
   <img src="assets/icons/matlab.png" alt="MATLAB" width="24"/>
   <img src="assets/icons/ruby.png" alt="Ruby" width="24"/>
 </p>
+
 
 <p align="center">
   <!-- ML Libraries -->
