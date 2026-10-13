@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mat2m10/">LinkedIn</a> ·
-  <a href="https://smarttinmen.com">Smart-Tinmen</a> ·
+  <a href="https://smarttinmen.com">Smart Tinmen</a> ·
   <a href="https://www.nature.com/articles/s41593-023-01333-4">Nature Neuroscience (2023)</a>
 </p>
 
@@ -14,7 +14,7 @@ pipelines for human genetics (first author in *Nature Neuroscience*, 2023) and t
 full-stack development at Le Wagon.
 
 - 🤖 **Now:** Senior AI Engineer at Sopra Steria, building agentic LLM workflows and RAG evaluation pipelines.
-- 🛠️ **Own studio:** [Smart-Tinmen](https://smarttinmen.com), product prototyping for robotics, sensing and AI.
+- 🛠️ **Own studio:** [Smart Tinmen](https://smarttinmen.com), product prototyping for robotics, sensing and AI.
 - 🎓 Two M.Sc. degrees in Industrial Engineering (electromechanics, and software & automation), ECAM.
 
 ---
@@ -30,7 +30,7 @@ full-stack development at Le Wagon.
 | [pangolin](https://github.com/mat2m10/pangolin) | Procedural pangolins in Blender, to generate synthetic training data |
 | [nexus](https://github.com/mat2m10/nexus) | Grid-based coalescent simulator for population-stratification bias in GWAS |
 | [chasm](https://github.com/mat2m10/chasm) | Simulation toolkit for genotype-phenotype data and bias in GWAS and burden tests |
-| [smart-tinmen-website](https://github.com/mat2m10/smart-tinmen-website) | The Smart-Tinmen website (Ruby on Rails) |
+| [smart-tinmen-website](https://github.com/mat2m10/smart-tinmen-website) | The Smart Tinmen website (Ruby on Rails) |
 
 ---
 
