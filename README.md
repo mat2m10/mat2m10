@@ -34,36 +34,30 @@ full-stack development at Le Wagon.
 
 ---
 
-### Toolbox
+### 🧰 Toolbox
 
-<p align="center">
-  <img src="assets/icons/python.png" alt="Python" title="Python" width="28"/>
-  <img src="assets/icons/cpp.png" alt="C++" title="C++" width="28"/>
-  <img src="assets/icons/bash.png" alt="Bash" title="Bash" width="28"/>
-  <img src="assets/icons/ruby.png" alt="Ruby" title="Ruby on Rails" width="28"/>
-  <img src="assets/icons/matlab.png" alt="MATLAB" title="MATLAB / Simulink" width="28"/>
-  <img src="assets/icons/R_studio.png" alt="R" title="R" width="28"/>
-</p>
-<p align="center">
-  <img src="assets/icons/ros.png" alt="ROS2" title="ROS2" width="28"/>
-  <img src="assets/icons/arduino.png" alt="Arduino" title="Arduino" width="28"/>
-  <img src="assets/icons/raspberry.png" alt="Raspberry Pi" title="Raspberry Pi" width="28"/>
-  <img src="assets/icons/bbb.png" alt="BeagleBone Black" title="BeagleBone Black" width="28"/>
-  <img src="assets/icons/photogrammetry.png" alt="Photogrammetry" title="Photogrammetry" width="28"/>
-  <img src="assets/icons/blender.png" alt="Blender" title="Blender" width="28"/>
-  <img src="assets/icons/godot.png" alt="Godot" title="Godot" width="28"/>
-</p>
-<p align="center">
-  <img src="assets/icons/torch.png" alt="PyTorch" title="PyTorch" width="28"/>
-  <img src="assets/icons/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="28"/>
-  <img src="assets/icons/scikit_boost.png" alt="scikit-learn / XGBoost" title="scikit-learn / XGBoost" width="28"/>
-  <img src="assets/icons/gwas.png" alt="GWAS" title="Population genetics / GWAS" width="28"/>
-</p>
-<p align="center">
-  <img src="assets/icons/docker.png" alt="Docker" title="Docker" width="28"/>
-  <img src="assets/icons/k8.png" alt="Kubernetes" title="Kubernetes" width="28"/>
-  <img src="assets/icons/google_cloud.png" alt="Google Cloud" title="Google Cloud" width="28"/>
-  <img src="assets/icons/postgres.png" alt="PostgreSQL" title="PostgreSQL" width="28"/>
-  <img src="assets/icons/linux.png" alt="Linux" title="Linux" width="28"/>
-  <img src="assets/icons/git.png" alt="Git" title="Git" width="28"/>
-</p>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=py,cpp,bash,r,matlab,ruby" height="40" alt="Python, C++, Bash, R, MATLAB, Ruby">
+
+**Robotics, vision & 3D**<br>
+<img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,opencv,blender,godot" height="40" alt="ROS, Arduino, Raspberry Pi, OpenCV, Blender, Godot"><br>
+![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-333333?style=flat-square)
+![Photogrammetry](https://img.shields.io/badge/Photogrammetry-0D6B60?style=flat-square)
+
+**Machine learning**<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" height="40" alt="PyTorch, TensorFlow, scikit-learn"><br>
+![GWAS](https://img.shields.io/badge/Population%20genetics%20%2F%20GWAS-6E40C9?style=flat-square)
+
+**Back end & data**<br>
+<img src="https://skillicons.dev/icons?i=fastapi,rails,react,postgres" height="40" alt="FastAPI, Rails, React, PostgreSQL">
+
+**Infrastructure & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,gcp,azure,linux,githubactions,gitlab" height="40" alt="Docker, Kubernetes, Google Cloud, Azure, Linux, GitHub Actions, GitLab">
+
+**LLMs & agents**<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
