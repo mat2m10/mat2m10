@@ -36,25 +36,25 @@ full-stack development at Le Wagon.
 
 ### 🧰 Toolbox
 
-<sub>Click an icon to see my repos that use it.</sub>
+<sub>Linked icons open my public repos that use them.</sub>
 
 **Languages**<br>
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Apython&type=repositories"><img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" title="Python"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Acpp&type=repositories"><img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Abash&type=repositories"><img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash"></a>
+<img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" title="C++">
+<img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" title="Bash">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Ar&type=repositories"><img src="https://skillicons.dev/icons?i=r" height="40" alt="R" title="R"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Amatlab&type=repositories"><img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB" title="MATLAB"></a>
+<img src="https://skillicons.dev/icons?i=matlab" height="40" alt="MATLAB" title="MATLAB">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Aruby&type=repositories"><img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby" title="Ruby"></a>
 
 **Robotics, vision & 3D**<br>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Aros&type=repositories"><img src="https://skillicons.dev/icons?i=ros" height="40" alt="ROS 2" title="ROS 2"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Aarduino&type=repositories"><img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" title="Arduino"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Araspberry-pi&type=repositories"><img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi" title="Raspberry Pi"></a>
+<img src="https://skillicons.dev/icons?i=ros" height="40" alt="ROS 2" title="ROS 2">
+<img src="https://skillicons.dev/icons?i=arduino" height="40" alt="Arduino" title="Arduino">
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="Raspberry Pi" title="Raspberry Pi">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Aopencv&type=repositories"><img src="https://skillicons.dev/icons?i=opencv" height="40" alt="OpenCV" title="OpenCV"></a>
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Ablender&type=repositories"><img src="https://skillicons.dev/icons?i=blender" height="40" alt="Blender" title="Blender"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Agodot&type=repositories"><img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" title="Godot"></a>
+<img src="https://skillicons.dev/icons?i=godot" height="40" alt="Godot" title="Godot">
 <br>
-[![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-333333?style=flat-square)](https://github.com/search?q=user%3Amat2m10+topic%3Abeaglebone&type=repositories)
+![BeagleBone Black](https://img.shields.io/badge/BeagleBone%20Black-333333?style=flat-square)
 [![Photogrammetry](https://img.shields.io/badge/Photogrammetry-0D6B60?style=flat-square)](https://github.com/search?q=user%3Amat2m10+topic%3Aphotogrammetry&type=repositories)
 
 **Machine learning**<br>
@@ -65,24 +65,24 @@ full-stack development at Le Wagon.
 [![Population genetics / GWAS](https://img.shields.io/badge/Population%20genetics%20%2F%20GWAS-6E40C9?style=flat-square)](https://github.com/search?q=user%3Amat2m10+topic%3Agwas&type=repositories)
 
 **Back end & data**<br>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Afastapi&type=repositories"><img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI"></a>
+<img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="FastAPI" title="FastAPI">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Arails&type=repositories"><img src="https://skillicons.dev/icons?i=rails" height="40" alt="Ruby on Rails" title="Ruby on Rails"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Areact&type=repositories"><img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React"></a>
+<img src="https://skillicons.dev/icons?i=react" height="40" alt="React" title="React">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Apostgresql&type=repositories"><img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" title="PostgreSQL"></a>
 
 **Infrastructure & DevOps**<br>
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Adocker&type=repositories"><img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" title="Docker"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Akubernetes&type=repositories"><img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes"></a>
+<img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="Kubernetes" title="Kubernetes">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Agcp&type=repositories"><img src="https://skillicons.dev/icons?i=gcp" height="40" alt="Google Cloud" title="Google Cloud"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Aazure&type=repositories"><img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Alinux&type=repositories"><img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux"></a>
+<img src="https://skillicons.dev/icons?i=azure" height="40" alt="Azure" title="Azure">
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" title="Linux">
 <a href="https://github.com/search?q=user%3Amat2m10+topic%3Agithub-actions&type=repositories"><img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions" title="GitHub Actions"></a>
-<a href="https://github.com/search?q=user%3Amat2m10+topic%3Agitlab&type=repositories"><img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" title="GitLab"></a>
+<img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" title="GitLab">
 
 **LLMs & agents**<br>
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)](https://github.com/search?q=user%3Amat2m10+topic%3Aclaude-code&type=repositories)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)](https://github.com/search?q=user%3Amat2m10+topic%3Alangchain&type=repositories)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)](https://github.com/search?q=user%3Amat2m10+topic%3Ahuggingface&type=repositories)
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)](https://github.com/search?q=user%3Amat2m10+topic%3Aollama&type=repositories)
-[![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)](https://github.com/search?q=user%3Amat2m10+topic%3Amlflow&type=repositories)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://github.com/search?q=user%3Amat2m10+topic%3Astreamlit&type=repositories)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
