@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://mat2m10.github.io"><img src="https://raw.githubusercontent.com/mat2m10/mat2m10.github.io/main/banner.png" alt="My toolbox: hardware, robotics, perception and 3D, machine learning, LLMs. Click for the interactive version." width="100%"></a>
+  <br><sub><a href="https://mat2m10.github.io">Interactive version</a>: hover a tool to see where I used it, click to open the repo (plain HTML, CSS and JavaScript).</sub>
+</p>
+
 <h2 align="center">Hi, I'm Matthieu 👋</h2>
 <h3 align="center">Robotics & AI engineer · underwater robots, drones, computer vision and LLM systems</h3>
 
